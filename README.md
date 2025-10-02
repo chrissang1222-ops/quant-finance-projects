@@ -13,9 +13,9 @@ Monte Carlo simulations are commonly used in quantitative finance for pricing de
 
 ## Results
 - Simulated stock paths show a distribution of possible outcomes.
-- Expected stock price after 1 year: X (fill with your result).
-- Probability stock > $160: Y%.
-- European Call Option (K=160) Monte Carlo Price: Z.
+- Expected stock price after 1 year: 156.88 (fill with your result).
+- Probability stock > $160: 0.429
+- European Call Option (K=160) Monte Carlo Price: 10.74.
 
 ## Next Steps
 - Extend to other derivatives (put options, barrier options).
