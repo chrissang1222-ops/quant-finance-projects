@@ -1,4 +1,5 @@
-This project simulates stock price movements using Geometric Brownian Motion (GBM). 
+This is the start of my coding and financial analysis journey.
+This project simulates stock price movements using Geometric Brownian Motion (GBM).
 Monte Carlo simulations are commonly used in quantitative finance for pricing derivatives, risk management, and forecasting.
 
 ## Methods
